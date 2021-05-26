@@ -1,0 +1,11 @@
+{
+	"name": "bradp/disable-telemetry",
+	"type": "wordpress-plugin",
+	"description": "Disable all HTTP requests to api.wordpress.org",
+	"authors": [
+	  {
+		"name": "Brad Parbs",
+		"email": "brad@bradparbs.com"
+	  }
+	]
+}
