@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Disable Telemetry
  * Description: Disable all HTTP requests to api.wordpress.org. Check out <a href="https://github.com/norcross/airplane-mode">Airplane Mode</a> if you need more control.
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Brad Parbs
  * Author URI:  https://bradparbs.com/
  * License:     GPLv2
