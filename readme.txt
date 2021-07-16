@@ -1,5 +1,5 @@
 === Disable Telemetry ===
-Contributors: bradparbs
+Contributors: bradparbs, surfboards
 Tags: developer, tools, telemetry, api, privacy
 Requires at least: 5.2
 Tested up to: 5.7.2
