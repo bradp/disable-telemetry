@@ -14,9 +14,7 @@
 
 namespace DisableTelemetry;
 
-if ( ! defined( 'ABSPATH' ) ) {
-	exit;
-}
+defined( 'ABSPATH' ) || die();
 
 add_action( 'pre_http_request', __NAMESPACE__ . '\\disable_telemetry_init', 1, 3 );
 
